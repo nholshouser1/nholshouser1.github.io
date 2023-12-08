@@ -32,10 +32,10 @@ display: block;
 .assign img {
 width: 200px;
 padding: 10px;
-border: 2px solid midnight blue;
+border: 2px solid black;
 }
 .assign img:hover{
 width: 200px;
 margin: 10px;
-border: 2px dotted yellow;
+border: 2px dotted black;
 }  
